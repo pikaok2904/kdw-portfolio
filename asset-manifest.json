@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kdw-portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kdw-portfolio/static/js/main.45278619.chunk.js",
+    "main.js.map": "/kdw-portfolio/static/js/main.45278619.chunk.js.map",
+    "runtime-main.js": "/kdw-portfolio/static/js/runtime-main.313cf05d.js",
+    "runtime-main.js.map": "/kdw-portfolio/static/js/runtime-main.313cf05d.js.map",
+    "static/js/2.a2b9b291.chunk.js": "/kdw-portfolio/static/js/2.a2b9b291.chunk.js",
+    "static/js/2.a2b9b291.chunk.js.map": "/kdw-portfolio/static/js/2.a2b9b291.chunk.js.map",
+    "static/js/3.236fcb0e.chunk.js": "/kdw-portfolio/static/js/3.236fcb0e.chunk.js",
+    "static/js/3.236fcb0e.chunk.js.map": "/kdw-portfolio/static/js/3.236fcb0e.chunk.js.map",
+    "index.html": "/kdw-portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kdw-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a2b9b291.chunk.js.LICENSE.txt": "/kdw-portfolio/static/js/2.a2b9b291.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kdw-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313cf05d.js",
+    "static/js/2.a2b9b291.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.45278619.chunk.js"
+  ]
+}
